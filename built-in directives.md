@@ -1,4 +1,4 @@
-ở bài viết trước, mình đã đề cập qua về Directives trong AngularJS. Trong bài biết này, mình sẽ giới thiệu sâu hơn về các Directives có sẵn trong AngularJS (built-in directives). Nắm bắt và sử dụng một cách hợp lý những directives này sẽ giúp ta tiết kiệm được rất nhiều thời gian code, đồng thời cũng làm code của ta thêm rõ ràng, sạch sẽ hơn.
+Ở bài viết trước, mình đã đề cập qua về Directives trong AngularJS. Trong bài biết này, mình sẽ giới thiệu sâu hơn về các Directives có sẵn trong AngularJS (built-in directives). Nắm bắt và sử dụng một cách hợp lý những directives này sẽ giúp ta tiết kiệm được rất nhiều thời gian code, đồng thời cũng làm code của ta thêm rõ ràng, sạch sẽ hơn.
 
 Trước tiên là những directives thuộc tính cơ bản.
 ##Attribute directives cơ bản:
